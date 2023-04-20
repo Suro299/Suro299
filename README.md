@@ -21,9 +21,6 @@ I am an aspiring developer, passionate about technology and constantly improving
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Suro299&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Suro299&icon=2&color=6)](https://visitcount.itsvg.in)
 
