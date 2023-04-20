@@ -15,9 +15,6 @@ I am an aspiring developer, passionate about technology and constantly improving
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suro299&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Suro299)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
