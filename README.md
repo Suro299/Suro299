@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: https://wakatime.com/badge/user/11814cec-b50b-4342-9308-f6274c4e895a.svg
 I am an aspiring developer, passionate about technology and constantly improving in my field. I am familiar with Python, Django, Django Rest, HTML, CSS, SCSS, JavaScript, React and MySQL and use them to build websites and applications in my personal projects. My motivation is to learn more about web development and build a career in this field. I also strive to make a difference in the IT industry and contribute to the development of society through technological innovation.
 
 
