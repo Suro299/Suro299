@@ -22,7 +22,6 @@ I am an aspiring developer, passionate about technology and constantly improving
 ![](https://github-contributor-stats.vercel.app/api?username=Suro299&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![wakatime](https://wakatime.com/badge/user/11814cec-b50b-4342-9308-f6274c4e895a.svg)](https://wakatime.com/@11814cec-b50b-4342-9308-f6274c4e895a)
 [![](https://visitcount.itsvg.in/api?id=Suro299&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
