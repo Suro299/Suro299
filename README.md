@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Areial&weight=600&size=34&pause=1000&color=F5F5F5&background=63636300&width=435&lines=Suro299)](https://git.io/typing-svg)
+
+
 # 💫 About Me: 
 I am an aspiring developer, passionate about technology and constantly improving in my field. I am familiar with Python, Django, Django Rest, HTML, CSS, SCSS, JavaScript, React and MySQL and use them to build websites and applications in my personal projects. My motivation is to learn more about web development and build a career in this field. I also strive to make a difference in the IT industry and contribute to the development of society through technological innovation.
 
